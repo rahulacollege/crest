@@ -15,7 +15,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="crest.svg">
   <defs
      id="defs4" />
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="351.68651"
-     inkscape:cy="655.72402"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="436.53046"
+     inkscape:cy="526.25707"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,5 +108,12 @@
        id="path4145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssscsccscc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 490.86469,504.5754 c -2.34769,9.07363 -0.18379,24.29312 4.88531,39.03678 3.94581,11.47652 3.74744,21.93686 -1,31.25 -3.58052,5.0647 -7.18223,7.6225 -8,11.5 -0.67751,3.23379 -1.92637,6.35782 2.46656,10.64376 1.13306,-1.8449 3.41383,-2.84776 7.08401,-2.14185 4.86487,0.93569 4.6768,-0.6512 6.01767,-1.42304 1.21712,1.9007 2.93145,3.32126 5.42862,4.47244 0.67825,-2.59803 1.04617,-3.35008 3.13779,-4.37522 2.95016,-1.44592 2.05099,-0.88191 3.62392,-2.2981 3.42206,2.88034 7.16619,1.33231 10.80393,1.24701 -0.31725,-0.0804 -2.99155,-6.84848 2.32008,-8.25758 4.68203,-1.24208 6.86742,-3.67992 6.86742,-3.67992 -0.55476,-2.42986 -6.54482,-8.57789 -9.11966,-8.84334 -2.97357,-0.30655 -6.54518,-2.24944 -5.96622,-4.72877 0.31615,-2.64764 3.22144,-5.61291 6.8501,-9.23658 2.54768,-2.54419 4.24067,-5.45193 6.45235,-8.22012 -1.3539,-1.92448 -10.28385,-11.23964 0.15457,-27.37427 7.71478,-11.92471 9.52715,-44.06241 9.28089,-44.30867 z"
+       id="path2994"
+       inkscape:connector-curvature="0"
+       transform="translate(-4.9229925e-6,0)"
+       sodipodi:nodetypes="cscccsccsccscscscscc" />
   </g>
 </svg>
