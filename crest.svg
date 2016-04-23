@@ -427,5 +427,11 @@
        id="path4209"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.857164,819.17164 c -0.151979,10.31468 -0.143546,27.8607 1.884641,46.78849 1.857374,17.3337 15.276285,32.2713 32.034385,32.80522 21.55492,0.68674 29.27454,-30.80334 8.26431,-30.80334 -16.5787,0 -10.57938,14.76781 -1.52487,12.26738 0,0 -1.35617,4.02225 -6.88282,4.44531 -8.8551,0.67785 -15.3248,-10.70622 -15.25781,-19.09375 0.16349,-20.4714 13.41842,-40.91178 5.84375,-58.75 -3.798,3.51817 -10.59681,9.45414 -24.361586,12.34069 z"
+       id="path4211"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscsscc" />
   </g>
 </svg>
