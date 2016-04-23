@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="386.37297"
-     inkscape:cy="570.40779"
+     inkscape:zoom="16"
+     inkscape:cx="133.0832"
+     inkscape:cy="409.85256"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -51,7 +51,7 @@
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="383.60157,842.28127"
@@ -70,9 +70,9 @@
        position="260.99609,431.98047"
        id="guide2999" />
     <sodipodi:guide
-       orientation="1,0"
-       position="134,406"
-       id="guide3001" />
+       orientation="0,1"
+       position="184.59375,398.67969"
+       id="guide3781" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -151,5 +151,10 @@
        d="M 134 620.375 C 134 620.375 125.75 620.42383 125.75 630.1875 C 125.75 639.95113 134 639.875 134 639.875 L 632.84375 639.875 C 632.84375 639.875 641.09375 639.95113 641.09375 630.1875 C 641.09375 620.42383 632.84375 620.375 632.84375 620.375 L 134 620.375 z "
        transform="translate(-4.9229925e-6,0)"
        id="path3005" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 134.28125 639.875 C 131.01855 650.40957 132.91147 653.68752 142.84375 653.6875 L 624 653.6875 C 633.93228 653.68752 635.8252 650.40957 632.5625 639.875 L 624 639.875 L 142.84375 639.875 L 134.28125 639.875 z "
+       transform="translate(-4.9229925e-6,0)"
+       id="path3783" />
   </g>
 </svg>
